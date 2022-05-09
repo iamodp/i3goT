@@ -1,0 +1,8 @@
+
+[i3wm]
+  "client.background" = "#162025"
+  "client.focused" = "#bfbfbf #162025 #bfbfbf #39402e #39402e"
+  "client.focused_inactive" = "#bfbfbf #162025 #bfbfbf #75404b #75404b"
+  "client.placeholder" = "#bfbfbf #162025 #bfbfbf #75404b #75404b"
+  "client.unfocused" = "#bfbfbf #162025 #bfbfbf #75404b #75404b"
+  "client.urgent" = "#bfbfbf #162025 #bfbfbf #75404b #75404b"
